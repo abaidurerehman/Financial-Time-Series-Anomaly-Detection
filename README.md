@@ -62,10 +62,10 @@ The dataset used in this project contains historical stock price data for compan
 - Detected anomalies are saved to a CSV file for easy export and further analysis.
 
 ## How to Use
-
 1. Clone the repository:
    ```bash
- origin  https://github.com:abaidurerehman/Financial-Time-Series-Anomaly-Detection.git
+git remote add origin https://github.com/abaidurerehman/Financial-Time-Series-Anomaly-Detection.git
+
    cd stock-price-anomaly-detection
    ```
 
