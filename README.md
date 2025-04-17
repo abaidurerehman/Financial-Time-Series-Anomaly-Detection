@@ -65,7 +65,7 @@ The dataset used in this project contains historical stock price data for compan
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-price-anomaly-detection.git
+ origin  https://github.com:abaidurerehman/Financial-Time-Series-Anomaly-Detection.git
    cd stock-price-anomaly-detection
    ```
 
