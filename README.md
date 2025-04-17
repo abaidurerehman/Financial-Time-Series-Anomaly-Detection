@@ -63,13 +63,12 @@ The dataset used in this project contains historical stock price data for compan
 
 ## How to Use
 
+### Step 1: Clone the repository
+Clone the repository to your local machine:
 
-1. Clone the repository:
-   ```bash
+```bash
 git clone https://github.com/abaidurerehman/Financial-Time-Series-Anomaly-Detection.git
-
-
-   cd stock-price-anomaly-detection
+cd Financial-Time-Series-Anomaly-Detection
    ```
 
 2. Install required dependencies:
